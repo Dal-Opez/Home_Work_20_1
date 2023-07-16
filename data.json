@@ -1,0 +1,106 @@
+[
+  {
+    "fields": {
+      "name": "Ватман формат А1 (610×860 мм)",
+      "description": "Ватман BRAUBERG предназначен для чертежно-графических работ тушью и карандашом.",
+      "image": "",
+      "category_id": 3,
+      "price": 308,
+      "creation_date": "2023-07-16T20:22:06.791Z",
+      "changed_date": "2023-07-16T20:22:06.791Z"
+    },
+    "model": "shop.product",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "name": "Ножницы BRAUBERG «Office-Expert» 170 мм",
+      "description": "Ножницы BRAUBERG «Office-Expert» сделаны из нержавеющей стали и имеют острые лезвия с трехсторонней",
+      "image": "",
+      "category_id": 3,
+      "price": 331,
+      "creation_date": "2023-07-16T20:23:04.289Z",
+      "changed_date": "2023-07-16T20:23:04.289Z"
+    },
+    "model": "shop.product",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "category_id": 2,
+      "changed_date": "2023-07-16T20:24:18.383Z",
+      "creation_date": "2023-07-16T20:24:18.383Z",
+      "description": "Очаровательные детские рюкзаки BRAUBERG KIDS «PLAY» с яркими принтами – незаменимый аксессуар для пр",
+      "image": "",
+      "name": "Рюкзак BRAUBERG KIDS PLAY детский",
+      "price": 596
+    },
+    "model": "shop.product",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "name": "Пластилин классический BRAUBERG «АКАДЕМИЯ КЛАССИЧЕ",
+      "description": "Классический пластилин BRAUBERG «АКАДЕМИЯ КЛАССИЧЕСКАЯ» предназначен для лепки на уроках труда в шко",
+      "image": "",
+      "category_id": 2,
+      "price": 104,
+      "creation_date": "2023-07-16T20:25:14.237Z",
+      "changed_date": "2023-07-16T20:25:14.237Z"
+    },
+    "model": "shop.product",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "name": "Перчатки хлопчатобумажные",
+      "description": "Хлопчатобумажные перчатки LAIMA «ЛЮКС» позволяют защитить руки от внешних воздействий в процессе физ",
+      "image": "",
+      "category_id": 1,
+      "price": 110,
+      "creation_date": "2023-07-16T20:26:03.013Z",
+      "changed_date": "2023-07-16T20:26:10.726Z"
+    },
+    "model": "shop.product",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "name": "Настольная лампа-светильник SONNEN PH-104",
+      "description": "Настольная лампа-светильник SONNEN PH-104 остается незаменимым атрибутом рабочего места. Прекрасно",
+      "image": "",
+      "category_id": 1,
+      "price": 2683,
+      "creation_date": "2023-07-16T20:26:52.537Z",
+      "changed_date": "2023-07-16T20:26:52.537Z"
+    },
+    "model": "shop.product",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "name": "Хозтовары",
+      "description": "Хозтовары",
+      "created_at": null
+    },
+    "model": "shop.category",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "name": "Школа",
+      "description": "Товары для школы",
+      "created_at": null
+    },
+    "model": "shop.category",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "name": "Офис",
+      "description": "Товары для офиса",
+      "created_at": null
+    },
+    "model": "shop.category",
+    "pk": 3
+  }]
